@@ -1,0 +1,9 @@
+               precision    recall  f1-score   support
+
+ First-degree       0.40      0.47      0.43       106
+Second-degree       0.42      0.41      0.41        97
+ Third-degree       0.13      0.07      0.10        40
+
+     accuracy                           0.38       243
+    macro avg       0.32      0.32      0.31       243
+ weighted avg       0.36      0.38      0.37       243

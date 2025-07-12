@@ -1,0 +1,16 @@
+streamlit
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python-headless
+Pillow
+scikit-learn
+joblib
+protobuf
+requests
+python-dotenv
+streamlit-option-menu
+google-generativeai
