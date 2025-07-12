@@ -18,15 +18,25 @@
 
 DermaIQ/
 ├── app.py # Main Streamlit app
+
 ├── classification_dataset.py # Organizes raw dataset into class folders
+
 ├── data_loader.py # ImageDataGenerator loader
+
 ├── utils.py # Preprocessing & prediction utilities
+
 ├── gradcamcustomcnn.py # Grad-CAM for Custom CNN
+
 ├── burn_model_final.h5 # Trained MobileNetV2 model
+
 ├── burn_model_customcnn_functional.h5 # Trained Custom CNN model
+
 ├── training_metrics.png # Accuracy & loss graph (MobileNetV2)
+
 ├── training_metrics_custom_cnn.png # Accuracy & loss graph (Custom CNN)
+
 ├── confusion_matrix.png # Confusion matrix (MobileNetV2)
+
 ├── confusion_matrix_custom_cnn.png # Confusion matrix (Custom CNN)
 
 ---
